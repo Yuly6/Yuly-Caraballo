@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+Web+en+formaci%C3%B3n;Estudiante+de+DAW;Aprendiendo+PHP%2C+HTML%2C+CSS;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+
 # 👋 ¡Hola! Soy [Yuly Caraballo]
 
 ## 🚀 Sobre mí
